@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.adcc81ab.js",
-    "index.html": "/index.html",
-    "main.adcc81ab.js.map": "/static/js/main.adcc81ab.js.map"
+    "main.js": "/GitHub-user-search-through-GitHub-API/static/js/main.766ce60f.js",
+    "index.html": "/GitHub-user-search-through-GitHub-API/index.html",
+    "main.766ce60f.js.map": "/GitHub-user-search-through-GitHub-API/static/js/main.766ce60f.js.map"
   },
   "entrypoints": [
-    "static/js/main.adcc81ab.js"
+    "static/js/main.766ce60f.js"
   ]
 }
